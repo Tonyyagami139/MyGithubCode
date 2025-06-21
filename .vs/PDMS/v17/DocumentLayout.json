@@ -1,0 +1,760 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|c:\\users\\tianx\\desktop\\mygithub\\mygithubcode\\pdms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\formexceltemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\formexceltemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\formexceltemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\formexceltemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\facade\\formfacadeexceltemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\facade\\formfacadeexceltemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\formfailurerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\formfailurerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\formselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\formselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\formselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\formselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\common\\utility\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|solutionrelative:common\\utility\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\facade\\formfacadefailurerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\facade\\formfacadefailurerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\formfailurerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\formfailurerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\facade\\formfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\facade\\formfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PDMS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\formfailurerecord.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\formfailurerecord.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\common\\failurerecord_productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|solutionrelative:common\\failurerecord_productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530C099F-7F1A-41AF-BE7B-22ADA919DE6C}|Dal\\Dal.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\dal\\failurerecorddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530C099F-7F1A-41AF-BE7B-22ADA919DE6C}|Dal\\Dal.csproj|solutionrelative:dal\\failurerecorddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E70A641-84D9-4393-A952-908145A5D60A}|Bll\\Bll.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\bll\\failurerecordbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E70A641-84D9-4393-A952-908145A5D60A}|Bll\\Bll.csproj|solutionrelative:bll\\failurerecordbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\database\\mysqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|solutionrelative:database\\mysqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\common\\failurerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|solutionrelative:common\\failurerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\database\\databasetym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|solutionrelative:database\\databasetym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E70A641-84D9-4393-A952-908145A5D60A}|Bll\\Bll.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E70A641-84D9-4393-A952-908145A5D60A}|Bll\\Bll.csproj|solutionrelative:bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\common\\processkeyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|solutionrelative:common\\processkeyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\database\\sqlserverhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|solutionrelative:database\\sqlserverhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\database\\databasesqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|solutionrelative:database\\databasesqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\database\\sqlhelperbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|solutionrelative:database\\sqlhelperbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530C099F-7F1A-41AF-BE7B-22ADA919DE6C}|Dal\\Dal.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530C099F-7F1A-41AF-BE7B-22ADA919DE6C}|Dal\\Dal.csproj|solutionrelative:dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\common\\fastexcelworkbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|solutionrelative:common\\fastexcelworkbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\common\\fastexcelworksheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|solutionrelative:common\\fastexcelworksheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\common\\fastexcelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|solutionrelative:common\\fastexcelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\common\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|solutionrelative:common\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tianx\\Desktop\\TymSvn\\VitaTesting\\Configuration\\XrayTester01n02\\M1132.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tianx\\Desktop\\TymSvn\\VitaTesting\\Configuration\\XrayTester01n02\\M0764_TPN2217.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tianx\\Desktop\\TymSvn\\VitaTesting\\Configuration\\Vitality\\PCM_S3028D_DD650.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\database\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|solutionrelative:database\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\001_15.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\001_15.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\database\\databasefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|solutionrelative:database\\databasefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\database\\model\\mysqldbpathitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|solutionrelative:database\\model\\mysqldbpathitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\database\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|solutionrelative:database\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\database\\ftphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14389AB7-3DC2-4E64-9D36-2695CF08592A}|Database\\Database.csproj|solutionrelative:database\\ftphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tianx\\Desktop\\SVN\\VitaTesting\\Setup\\TYW-LAPTOP.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\common\\utility\\md5helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D01209-4E2A-4B01-AF7A-15C4EBA497B0}|Common\\Common.csproj|solutionrelative:common\\utility\\md5helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\pdms\\formlogin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AFA33571-9AB1-4934-B253-DAA2338F9286}|PDMS\\PDMS.csproj|solutionrelative:pdms\\formlogin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormFailureRecord.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormFailureRecord.cs",
+              "RelativeDocumentMoniker": "PDMS\\FormFailureRecord.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\Settings\\Solutions\\PDMS\\PDMS\\FormFailureRecord.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\Settings\\Solutions\\PDMS\\PDMS\\FormFailureRecord.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:52:54.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormExcelTemplate.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormExcelTemplate.cs",
+              "RelativeDocumentMoniker": "PDMS\\FormExcelTemplate.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\Settings\\Solutions\\PDMS\\PDMS\\FormExcelTemplate.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\Settings\\Solutions\\PDMS\\PDMS\\FormExcelTemplate.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:14:16.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormExcelTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormExcelTemplate.cs",
+              "RelativeDocumentMoniker": "PDMS\\FormExcelTemplate.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormExcelTemplate.cs",
+              "RelativeToolTip": "PDMS\\FormExcelTemplate.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwEAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:48:44.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormFacadeExcelTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\Facade\\FormFacadeExcelTemplate.cs",
+              "RelativeDocumentMoniker": "PDMS\\Facade\\FormFacadeExcelTemplate.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\Facade\\FormFacadeExcelTemplate.cs",
+              "RelativeToolTip": "PDMS\\Facade\\FormFacadeExcelTemplate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowEQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:24:47.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\Program.cs",
+              "RelativeDocumentMoniker": "PDMS\\Program.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\Program.cs",
+              "RelativeToolTip": "PDMS\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBIAAACsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:06:30.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLogIn.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormLogIn.cs",
+              "RelativeDocumentMoniker": "PDMS\\FormLogIn.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\Settings\\Solutions\\PDMS\\PDMS\\FormLogIn.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\Settings\\Solutions\\PDMS\\PDMS\\FormLogIn.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T02:40:04.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormSelection.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormSelection.cs",
+              "RelativeDocumentMoniker": "PDMS\\FormSelection.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\Settings\\Solutions\\PDMS\\PDMS\\FormSelection.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\Settings\\Solutions\\PDMS\\PDMS\\FormSelection.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:26:09.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormFailureRecord.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormFailureRecord.cs",
+              "RelativeDocumentMoniker": "PDMS\\FormFailureRecord.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormFailureRecord.cs",
+              "RelativeToolTip": "PDMS\\FormFailureRecord.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAmwPwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:14:31.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormSelection.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormSelection.cs",
+              "RelativeDocumentMoniker": "PDMS\\FormSelection.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormSelection.cs",
+              "RelativeToolTip": "PDMS\\FormSelection.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAApwEoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:30:42.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormFacadeFailureRecord.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\Facade\\FormFacadeFailureRecord.cs",
+              "RelativeDocumentMoniker": "PDMS\\Facade\\FormFacadeFailureRecord.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\Facade\\FormFacadeFailureRecord.cs",
+              "RelativeToolTip": "PDMS\\Facade\\FormFacadeFailureRecord.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADgvz8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T01:38:48.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\Utility\\FileHelper.cs",
+              "RelativeDocumentMoniker": "Common\\Utility\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\Utility\\FileHelper.cs",
+              "RelativeToolTip": "Common\\Utility\\FileHelper.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T11:04:02.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormFacade.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\Facade\\FormFacade.cs",
+              "RelativeDocumentMoniker": "PDMS\\Facade\\FormFacade.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\Facade\\FormFacade.cs",
+              "RelativeToolTip": "PDMS\\Facade\\FormFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:36:30.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\Global.cs",
+              "RelativeDocumentMoniker": "PDMS\\Global.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\Global.cs",
+              "RelativeToolTip": "PDMS\\Global.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDUAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T01:51:39.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormFailureRecord.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormFailureRecord.Designer.cs",
+              "RelativeDocumentMoniker": "PDMS\\FormFailureRecord.Designer.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormFailureRecord.Designer.cs",
+              "RelativeToolTip": "PDMS\\FormFailureRecord.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwFcCAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:11:40.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PDMS",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\PDMS.csproj",
+              "RelativeDocumentMoniker": "PDMS\\PDMS.csproj",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\PDMS.csproj",
+              "RelativeToolTip": "PDMS\\PDMS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-05T04:52:37.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FailureRecord_ProductInfo.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\FailureRecord_ProductInfo.cs",
+              "RelativeDocumentMoniker": "Common\\FailureRecord_ProductInfo.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\FailureRecord_ProductInfo.cs",
+              "RelativeToolTip": "Common\\FailureRecord_ProductInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:44:04.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MySqlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\MySqlHelper.cs",
+              "RelativeDocumentMoniker": "Database\\MySqlHelper.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\MySqlHelper.cs",
+              "RelativeToolTip": "Database\\MySqlHelper.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAtwJQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T01:46:37.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FailureRecord.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\FailureRecord.cs",
+              "RelativeDocumentMoniker": "Common\\FailureRecord.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\FailureRecord.cs",
+              "RelativeToolTip": "Common\\FailureRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:30:12.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FailureRecordBll.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Bll\\FailureRecordBll.cs",
+              "RelativeDocumentMoniker": "Bll\\FailureRecordBll.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Bll\\FailureRecordBll.cs",
+              "RelativeToolTip": "Bll\\FailureRecordBll.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAewEcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T01:45:58.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FailureRecordDal.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Dal\\FailureRecordDal.cs",
+              "RelativeDocumentMoniker": "Dal\\FailureRecordDal.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Dal\\FailureRecordDal.cs",
+              "RelativeToolTip": "Dal\\FailureRecordDal.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAIA1wKEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T01:46:25.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserBll.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Bll\\UserBll.cs",
+              "RelativeDocumentMoniker": "Bll\\UserBll.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Bll\\UserBll.cs",
+              "RelativeToolTip": "Bll\\UserBll.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwCsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:56:32.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProcessKeyName.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\ProcessKeyName.cs",
+              "RelativeDocumentMoniker": "Common\\ProcessKeyName.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\ProcessKeyName.cs",
+              "RelativeToolTip": "Common\\ProcessKeyName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:06:32.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DatabaseTym.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\DatabaseTym.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseTym.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\DatabaseTym.cs",
+              "RelativeToolTip": "Database\\DatabaseTym.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIA2wDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T01:37:00.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SqlServerHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\SqlServerHelper.cs",
+              "RelativeDocumentMoniker": "Database\\SqlServerHelper.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\SqlServerHelper.cs",
+              "RelativeToolTip": "Database\\SqlServerHelper.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAWwFwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:22:22.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DatabaseSqlServer.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\DatabaseSqlServer.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseSqlServer.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\DatabaseSqlServer.cs",
+              "RelativeToolTip": "Database\\DatabaseSqlServer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAWwD0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:20:04.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormLogIn.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormLogIn.cs",
+              "RelativeDocumentMoniker": "PDMS\\FormLogIn.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormLogIn.cs",
+              "RelativeToolTip": "PDMS\\FormLogIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T02:57:46.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SqlHelperBase.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\SqlHelperBase.cs",
+              "RelativeDocumentMoniker": "Database\\SqlHelperBase.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\SqlHelperBase.cs",
+              "RelativeToolTip": "Database\\SqlHelperBase.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:01:25.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserDal.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Dal\\UserDal.cs",
+              "RelativeDocumentMoniker": "Dal\\UserDal.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Dal\\UserDal.cs",
+              "RelativeToolTip": "Dal\\UserDal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:03:34.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FastExcelWorkbook.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\FastExcelWorkbook.cs",
+              "RelativeDocumentMoniker": "Common\\FastExcelWorkbook.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\FastExcelWorkbook.cs",
+              "RelativeToolTip": "Common\\FastExcelWorkbook.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowHIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:46:52.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FastExcelWorksheet.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\FastExcelWorksheet.cs",
+              "RelativeDocumentMoniker": "Common\\FastExcelWorksheet.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\FastExcelWorksheet.cs",
+              "RelativeToolTip": "Common\\FastExcelWorksheet.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAgwLIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:47:58.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FastExcelException.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\FastExcelException.cs",
+              "RelativeDocumentMoniker": "Common\\FastExcelException.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\FastExcelException.cs",
+              "RelativeToolTip": "Common\\FastExcelException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:48:39.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\User.cs",
+              "RelativeDocumentMoniker": "Common\\User.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\User.cs",
+              "RelativeToolTip": "Common\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:33:50.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "M1132.json",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\TymSvn\\VitaTesting\\Configuration\\XrayTester01n02\\M1132.json",
+              "RelativeDocumentMoniker": "..\\..\\TymSvn\\VitaTesting\\Configuration\\XrayTester01n02\\M1132.json",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\TymSvn\\VitaTesting\\Configuration\\XrayTester01n02\\M1132.json",
+              "RelativeToolTip": "..\\..\\TymSvn\\VitaTesting\\Configuration\\XrayTester01n02\\M1132.json",
+              "ViewState": "AgIAAE8AAAAAAAAAAABkwGAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T02:44:11.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "M0764_TPN2217.json",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\TymSvn\\VitaTesting\\Configuration\\XrayTester01n02\\M0764_TPN2217.json",
+              "RelativeDocumentMoniker": "..\\..\\TymSvn\\VitaTesting\\Configuration\\XrayTester01n02\\M0764_TPN2217.json",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\TymSvn\\VitaTesting\\Configuration\\XrayTester01n02\\M0764_TPN2217.json",
+              "RelativeToolTip": "..\\..\\TymSvn\\VitaTesting\\Configuration\\XrayTester01n02\\M0764_TPN2217.json",
+              "ViewState": "AgIAAA0AAAAAAAAAAABkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T02:44:02.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TYW-LAPTOP.json",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\SVN\\VitaTesting\\Setup\\TYW-LAPTOP.json",
+              "RelativeDocumentMoniker": "..\\..\\SVN\\VitaTesting\\Setup\\TYW-LAPTOP.json",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\SVN\\VitaTesting\\Setup\\TYW-LAPTOP.json",
+              "RelativeToolTip": "..\\..\\SVN\\VitaTesting\\Setup\\TYW-LAPTOP.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T07:00:30.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PCM_S3028D_DD650.json",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\TymSvn\\VitaTesting\\Configuration\\Vitality\\PCM_S3028D_DD650.json",
+              "RelativeDocumentMoniker": "..\\..\\TymSvn\\VitaTesting\\Configuration\\Vitality\\PCM_S3028D_DD650.json",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\TymSvn\\VitaTesting\\Configuration\\Vitality\\PCM_S3028D_DD650.json",
+              "RelativeToolTip": "..\\..\\TymSvn\\VitaTesting\\Configuration\\Vitality\\PCM_S3028D_DD650.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T02:21:38.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\IDatabase.cs",
+              "RelativeDocumentMoniker": "Database\\IDatabase.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\IDatabase.cs",
+              "RelativeToolTip": "Database\\IDatabase.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T01:59:59.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormLogIn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormLogIn.Designer.cs",
+              "RelativeDocumentMoniker": "PDMS\\FormLogIn.Designer.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormLogIn.Designer.cs",
+              "RelativeToolTip": "PDMS\\FormLogIn.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T02:57:59.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "001_15.ico - Icon [24x24, 4 \u4F4D, BMP]",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\001_15.ico",
+              "RelativeDocumentMoniker": "PDMS\\001_15.ico",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\Settings\\Solutions\\PDMS\\PDMS\\001_15.ico - Icon [24x24, 4 \u4F4D, BMP]",
+              "RelativeToolTip": "..\\..\\Settings\\Solutions\\PDMS\\PDMS\\001_15.ico - Icon [24x24, 4 \u4F4D, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-05-13T05:39:39.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DatabaseFactory.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\DatabaseFactory.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseFactory.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\DatabaseFactory.cs",
+              "RelativeToolTip": "Database\\DatabaseFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:01:09.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MysqlDbPathItems.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\Model\\MysqlDbPathItems.cs",
+              "RelativeDocumentMoniker": "Database\\Model\\MysqlDbPathItems.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\Model\\MysqlDbPathItems.cs",
+              "RelativeToolTip": "Database\\Model\\MysqlDbPathItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:39:33.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "Database\\JsonHelper.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\JsonHelper.cs",
+              "RelativeToolTip": "Database\\JsonHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:41:49.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FtpHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\FtpHelper.cs",
+              "RelativeDocumentMoniker": "Database\\FtpHelper.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Database\\FtpHelper.cs",
+              "RelativeToolTip": "Database\\FtpHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:07:36.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "PDMS\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\Properties\\Resources.resx",
+              "RelativeToolTip": "PDMS\\Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-16T00:55:12.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\app.config",
+              "RelativeDocumentMoniker": "PDMS\\app.config",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\app.config",
+              "RelativeToolTip": "PDMS\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-14T08:47:02.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Md5Helper.cs",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\Utility\\Md5Helper.cs",
+              "RelativeDocumentMoniker": "Common\\Utility\\Md5Helper.cs",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\Common\\Utility\\Md5Helper.cs",
+              "RelativeToolTip": "Common\\Utility\\Md5Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:28:13.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormLogIn.resx",
+              "DocumentMoniker": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormLogIn.resx",
+              "RelativeDocumentMoniker": "PDMS\\FormLogIn.resx",
+              "ToolTip": "C:\\Users\\tianx\\Desktop\\MyGitHub\\MyGithubCode\\PDMS\\FormLogIn.resx",
+              "RelativeToolTip": "PDMS\\FormLogIn.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-09T02:58:29.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
