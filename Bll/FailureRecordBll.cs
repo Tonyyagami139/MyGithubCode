@@ -150,18 +150,6 @@ namespace Bll
             Db.ExecuteQuery(query, parameters);
         }
 
-
-        
-        public void DeleteFailureRecord(string sn)
-        {
-            string query = "DELETE FROM FailureRecord WHERE SerialNumber = @SerialNumber";
-            SqlParameter[] parameters = new SqlParameter[]
-            {
-                new SqlParameter("@SerialNumber", sn)
-            };
-            Db.ExecuteQuery(query, parameters);
-        }
-
         public void DeleteFailureRecord(int Id,string DeleteUserName)
         {
             var parameters = new SqlParameter[]

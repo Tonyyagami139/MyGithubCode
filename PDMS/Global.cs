@@ -29,6 +29,8 @@ namespace PDMS
 
         public static string LogoPicture { get; set; } = "\\\\192.168.31.223\\TestingDataRoot\\PDMS\\FailureRecord\\logo.png";
 
+        public static string LogInPicture { get; set; } = "\\\\192.168.31.223\\TestingDataRoot\\PDMS\\FailureRecord\\login.png";
+
         public static string UserDataPath = "C:\\ProgramData\\zTx\\PDMS\\user.dat";
 
 

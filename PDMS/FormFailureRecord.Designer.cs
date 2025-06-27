@@ -109,9 +109,11 @@
             this.下载ToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(6, 2, 0, 2);
             this.menuStrip1.Size = new System.Drawing.Size(1276, 28);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // 设置ToolStripMenuItem
             // 
@@ -202,7 +204,6 @@
             // 
             this.tb_productFamily.Location = new System.Drawing.Point(107, 158);
             this.tb_productFamily.Name = "tb_productFamily";
-            this.tb_productFamily.ReadOnly = true;
             this.tb_productFamily.Size = new System.Drawing.Size(381, 31);
             this.tb_productFamily.TabIndex = 1199;
             // 
@@ -210,7 +211,6 @@
             // 
             this.tb_productName.Location = new System.Drawing.Point(107, 195);
             this.tb_productName.Name = "tb_productName";
-            this.tb_productName.ReadOnly = true;
             this.tb_productName.Size = new System.Drawing.Size(381, 31);
             this.tb_productName.TabIndex = 1198;
             // 
@@ -227,7 +227,6 @@
             // 
             this.tb_producType.Location = new System.Drawing.Point(107, 235);
             this.tb_producType.Name = "tb_producType";
-            this.tb_producType.ReadOnly = true;
             this.tb_producType.Size = new System.Drawing.Size(381, 31);
             this.tb_producType.TabIndex = 1196;
             this.tb_producType.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tb_productName_KeyPress);
@@ -719,7 +718,7 @@
         private System.Windows.Forms.DataGridView dataGridView_failureRecord;
         private System.Windows.Forms.DataGridViewTextBoxColumn SerialNumber;
         private System.Windows.Forms.DataGridViewTextBoxColumn ProductFamily;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ProductName;
+        private new System.Windows.Forms.DataGridViewTextBoxColumn ProductName;
         private System.Windows.Forms.DataGridViewTextBoxColumn ProductType;
         private System.Windows.Forms.DataGridViewTextBoxColumn WorkStepProcessName;
         private System.Windows.Forms.DataGridViewTextBoxColumn FailureMode;

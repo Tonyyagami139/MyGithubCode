@@ -31,9 +31,9 @@ namespace PDMS.Facade
         {
             string sourceFolder = "\\\\192.168.31.223\\TestingDataRoot\\PDMS\\ExcelTemplates";
             string destFolder = Path.Combine(LocalPDMSFolder, "ExcelTemplates");
-            if (Directory.Exists(LocalPDMSFolder))
+            if (Directory.Exists(destFolder))
             {
-                var files = Directory.GetFiles(LocalPDMSFolder);
+                var files = Directory.GetFiles(destFolder);
                 try
                 {
                     foreach (var f in files)
@@ -48,9 +48,9 @@ namespace PDMS.Facade
                     //ignore error
                 }
             }
-            if (!Directory.Exists(LocalPDMSFolder))
+            if (!Directory.Exists(destFolder))
             {
-                Directory.CreateDirectory(LocalPDMSFolder);
+                Directory.CreateDirectory(destFolder);
             }
             try 
             { 

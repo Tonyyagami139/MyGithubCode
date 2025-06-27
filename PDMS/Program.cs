@@ -32,7 +32,7 @@ namespace PDMS
                 }
                 Application.EnableVisualStyles();
                 Application.SetCompatibleTextRenderingDefault(false);
-                Application.Run(new FormExcelTemplate());
+                Application.Run(new FormLogIn());
                 //FormLogIn formLogIn = new FormLogIn();
                 //if (formLogIn.ShowDialog() == DialogResult.OK)
                 //{
